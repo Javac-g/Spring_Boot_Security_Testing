@@ -1,0 +1,70 @@
+.nav{
+	text-align:center;
+	border:solid 1px green;
+	margin: 10px;
+	height: 10%
+}
+.nav a{
+	text-align:center;
+	border:solid 1px green;
+	margin: 10px;
+	height: 10%;
+	padding:0px 100px;
+}
+.content{
+	display: flex;
+	margin: 10px;
+}
+.footer{
+	margin: 10px;
+}
+.sidebar{
+	text-align:center;
+	width:15%;
+	border: solid 1px gray;
+	
+}
+.target{
+	width:85%;
+	padding:0px 100px;
+	border: solid 1px gray;
+}
+.sidebar li{
+	display:grid;
+	list-style-type:none;
+	padding:25px;
+	 
+}
+.forms{
+	display:grid;
+	gap:1px;
+	width:15%;
+	text-align:center;
+	justify-content:center;
+	padding-top:15%;
+	margin:0 auto;
+	 
+	
+}
+.forms1{
+	display:grid;
+	gap:1px;
+	width:15%;
+	text-align:center;
+	justify-content:center;
+	 
+	margin:0 auto;
+	 
+	
+}
+.forms input,
+.forms label
+.forms1 input,
+.forms1 label{
+	padding:5px;
+	margin:5px;
+}
+body,html{
+	
+	margin:0;
+}
